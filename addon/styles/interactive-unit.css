@@ -1,0 +1,9 @@
+.interactive-unit {
+  background-color: #000000;
+  color: #eeeeee;
+}
+
+.interactive-unit__label,
+.interactive-unit__value {
+  display: inline-block;
+}
